@@ -1,0 +1,1 @@
+{"ide":{"scriptPaths":[{"type":"FILE","path":"WebContent/Controller-Test/controller.js"}]},"plugins":{"guess-types":{},"node":{},"jasmine":{},"angular":{},"protractor":{}},"libs":["ecma5","browser"]}
